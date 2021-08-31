@@ -1,0 +1,6 @@
+server:
+  port: 8081
+
+person:
+  name: jerry
+  age: 28
